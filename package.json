@@ -25,7 +25,7 @@
   "author": "Gianni Bruno",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^6.5.0",
+    "cypress": "^13.17.0",
     "cypress-cucumber-preprocessor": "^4.0.1",
     "cypress-file-upload": "^4.0.7",
     "cypress-multi-reporters": "^1.4.0",
